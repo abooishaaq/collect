@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "fastify": "^4.9.2",
+    "got": "^12.5.2"
+  },
+  "type": "module"
+}
